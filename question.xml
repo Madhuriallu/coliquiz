@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question>
+    <name>
+      <text>Root user can not</text>
+    </name>
+    <questiontext>
+      <text>The root user on linux can not</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>add more users</text>
+      <feedback format="html">
+      
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>mount a file system</p>]]></text>
+      <feedback format="html">
+      
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>change running kernel code</text>
+      <feedback format="html">
+        
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>change file permissions in /boot </text>
+      <feedback format="html">
+       
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
